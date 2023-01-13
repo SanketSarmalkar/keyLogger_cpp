@@ -3,6 +3,8 @@
 #include <windows.h>
 #include <bits/stdc++.h>
 
+// to stop   taskkill/F/IM/keylogger.exe
+
 // log file path
 #define LOG_FILE "keylogger.txt"
 
